@@ -1,2 +1,2 @@
 # object-storage
-Elastic object storage solution written in `go`
+Elastic object storage solution written in `C#`
